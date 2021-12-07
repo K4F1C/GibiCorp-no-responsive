@@ -1,0 +1,10 @@
+.Id{
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+
+.Id p {
+    padding: 20px;
+    letter-spacing: 2px;
+}

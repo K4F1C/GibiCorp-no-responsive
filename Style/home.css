@@ -1,0 +1,42 @@
+.sifx {
+    color: whitesmoke;
+    text-align: center;
+    padding: 100px;
+}
+
+.sifx img {
+
+    width: 300px;
+    border-radius: 50%;
+    margin: -14% 28%;
+    border:2px solid #fff;
+    display: block;
+}
+
+.sifx p {
+    letter-spacing: 2px;
+}
+
+.sifx .p2 {
+    padding: 100px 450px 0px 850px;
+    text-align: justify;
+}
+.op {
+    color: whitesmoke;
+    text-align: center;
+}
+.op button {
+    cursor: pointer;
+    background: rgb(24, 27, 27);
+        border-radius: 50px;
+        margin: 200px 50px 0px 10px;
+        color: white;
+        border-color: #fff;
+        padding: 15px 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
+
